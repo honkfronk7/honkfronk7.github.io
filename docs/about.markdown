@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /about_me/
 ---
 
   Welcome to the about me page! There is nothing to see right now. Trying to figure out how to add a picture to the site and make the formatting look facy!
